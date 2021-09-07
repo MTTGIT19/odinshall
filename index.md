@@ -1,17 +1,11 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html>
   <head>
-    <meta charset="utf-8">
+    <title>Odin's Hall </title>
+    <meta charset="UTF-8">
   </head>
-<body>
-    
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-4">Col 1</div>
-      <div class="col-md-4">Col 2</div>
-      <div class="col-md-4">Col 3</div>
-    </div>
-  </div>
 
-</body>
+  <body>
+    <h1>DINE IN VALHALLA!</h1>
+  </body>
 </html>
