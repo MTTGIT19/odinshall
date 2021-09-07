@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Odin's Hall </title>
+    <title> Odin's Hall </title>
     <meta charset="UTF-8">
   </head>
 
