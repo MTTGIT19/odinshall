@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title> Odin's Hall </title>
-    <meta charset="UTF-8">
-  </head>
-
-  <body>
-    <h1>DINE IN VALHALLA!</h1>
-  </body>
+<!doctype html>
+	<h1> Welcome to Odins Hall !</h1>
+<body>The finest food in all of Valhalla!</body>
 </html>
